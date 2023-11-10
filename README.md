@@ -1,2 +1,2 @@
-# OFD5.github.io/index.html
+# OFD5.github.io
 Personal WebSite
